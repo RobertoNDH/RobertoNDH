@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertoNDH" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoNDH" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertoNDH" alt="Roberto Activity Graph" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoNDH" alt="Roberto Streak" height="180em"/>
 </p>
 
 ---
